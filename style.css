@@ -1,0 +1,234 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  .div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 21px;
+  }
+  .ul {
+    color: #837d88;
+    font-size: 13px;
+    font-weight: 700;
+    list-style: none;
+    display: flex;
+    gap: 26px;
+  }
+  .div1 {
+    display: flex;
+    gap: 33px;
+  }
+  .img {
+    margin-left: 168px;
+  }
+  .button {
+    width: 146px;
+    height: 40px;
+    border: 1.5 px solid #2c2830;
+    color: #2c2830;
+    background: none;
+    margin-right: 156px;
+  }
+  .div2 {
+    background: #2d2641;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .div3 {
+    width: 150px;
+    height: 10px;
+    /* background: red; */
+    margin-top: 105px;
+    margin-left: 165px;
+  }
+  .h1 {
+    font-size: 72px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 169px;
+    width: 540px;
+    margin-left: 0px;
+  }
+  .div4 {
+    transform: translateX(-200px);
+  }
+  .p {
+    color: #fff;
+  }
+  .buttonn {
+    width: 146px;
+    height: 40px;
+    border: 1.5px solid white;
+    color: #fff;
+    background: none;
+  }
+  .img1 {
+    transform: translateX(px);
+    transform: translate(-105px, 200px);
+  }
+  .img2 {
+    transform: translateY(400px);
+  }
+  .div5 {
+    width: 150px;
+    height: 2px;
+    background: #c396c6;
+    margin-top: 300px;
+    margin-left: 70px;
+  }
+  .div6 {
+    font-size: 72px;
+    font-weight: 400;
+    margin-left: 70px;
+  }
+  .div7 {
+    width: 86px;
+    height: 86px;
+    border-radius: 50px;
+    background: #96a9c6;
+  }
+  .img3 {
+    transform: translate(30px, 25px);
+  }
+  .h33 {
+    font-size: 28px;
+    font-weight: 400;
+  }
+  .pp {
+    color: #837d88;
+  }
+  .div8 {
+    width: 300px;
+  }
+  .div9 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .h333 {
+    font-size: 56px;
+    font-weight: 400;
+    width: 475px;
+    margin-left: 81px;
+  }
+  .div10 {
+    background: #2d2641;
+    color: #fff;
+    height: 250px;
+    width: 1110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 158px;
+  }
+  .buttonnn {
+    width: 146px;
+    height: 40px;
+    border: 1.5px solid white;
+    color: #fff;
+    background: none;
+    margin-right: 80px;
+  }
+  .img4 {
+    transform: translate(825px, -250px);
+  }
+  .div11 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 67px;
+  }
+  .img5 {
+    margin-left: 165px;
+  }
+  .img6 {
+    margin-right: 165px;
+  }
+  .div12 {
+    display: flex;
+    gap: 2.25px;
+  }
+  .hr1 {
+    width: 1110px;
+  }
+  .p3 {
+    color: #837d88;
+  }
+  .div13 {
+    margin-top: 36px;
+  }
+  .div14 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .div15 {
+    margin-top: 35px;
+  }
+  .div16 {
+    background: #fafafa;
+    height: 393px;
+  }
+  .img7 {
+    transform: translateY(-390px);
+  }
+  @media (max-width: 790px) {
+    .img {
+      margin-left: 100px;
+    }
+    .h1 {
+      font-size: 40px;
+      margin-left: 300px;
+      width: 300px;
+    }
+    .p {
+      width: 300px;
+      margin-left: 300px;
+    }
+    .buttonn{
+      margin-left: 300px;
+    }
+    .img1{
+      width: 100px;
+      height: 400px;
+      transform: translateX(-900px);
+      margin-top: 100px;
+    }
+
+    .div6{
+        text-align: center;
+      }
+      .div5{
+        margin-left: 200px;
+      }
+      .div9{
+        width: 600px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-left: 200px;
+      }
+      .div10{
+        margin-left:15px;
+        width: 800px;
+      }
+      .h333{
+        font-size: 40px;
+        width: 300px;
+      }
+      .img4{
+        transform: translate(379px, -250px);
+      }
+
+      .hr1{
+        width: 785px;
+      }
+      .div14{
+        margin-left:10px;
+      }
+  }
